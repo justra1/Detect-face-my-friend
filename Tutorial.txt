@@ -1,0 +1,22 @@
+วิธีการใช้งานบน VScode
+โหลด python ver.ล่าสุด
+โหลด extensions ของ python ใน VScode
+- Pylance
+- Python
+- Python Debugger
+- Python Environments
+
+จากนั้นไปที่ terminal กดที่ลูกศรข้างๆรูปบวกแล้วกด command prompt
+แล้วพิมพ์ command
+1. python -m venv myenv 
+2. myenv\Scripts\activate
+3. pip install opencv-python 
+รอโหลด
+4.pip install ultralytics
+รอโหลด
+5.เตรียมกล้อง webcam 
+6.กดrun code ที่โหลดมาพร้อมกับ weight
+
+
+อ้างอิง:
+https://www.youtube.com/watch?v=fclTFQQvQFQ&t=166s(ถึงแค่ข้อ 3 )
